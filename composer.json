@@ -85,7 +85,7 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/pagbada/zf-mvc-oauth"
+            "url": "https://github.com/pagbada/zf-mvc-auth"
         }
     ]
 }
