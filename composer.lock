@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "eca0917da8032778e001c61c124e2846",
+    "content-hash": "b7170e9eb97a5bc254c849f3f1a49411",
     "packages": [
         {
             "name": "bshaffer/oauth2-server-php",
@@ -2187,16 +2187,16 @@
         },
         {
             "name": "zfcampus/zf-mvc-auth",
-            "version": "dev-main",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-mvc-auth.git",
-                "reference": "62ee7f26f6c958d3b9e9c3158c2e08bf723d4dce"
+                "reference": "bd265519c8d6f178163af8553bf233ec36a60aaa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-mvc-auth/zipball/62ee7f26f6c958d3b9e9c3158c2e08bf723d4dce",
-                "reference": "62ee7f26f6c958d3b9e9c3158c2e08bf723d4dce",
+                "url": "https://api.github.com/repos/pagbada/zf-mvc-auth/zipball/bd265519c8d6f178163af8553bf233ec36a60aaa",
+                "reference": "bd265519c8d6f178163af8553bf233ec36a60aaa",
                 "shasum": ""
             },
             "require": {
@@ -2218,7 +2218,6 @@
                 "zendframework/zend-coding-standard": "~1.0.0",
                 "zendframework/zend-session": "^2.8.5"
             },
-            "default-branch": true,
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -2274,7 +2273,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-18T06:08:27+00:00"
+            "time": "2024-06-18T03:50:46+00:00"
         },
         {
             "name": "zfcampus/zf-oauth2",
@@ -2375,16 +2374,16 @@
         },
         {
             "name": "zfcampus/zf-rest",
-            "version": "dev-main",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-rest.git",
-                "reference": "f46758eefe68611a207475c19ae65e60f3dbd81f"
+                "reference": "2d9d1169f666184537f4f8b27e15619d95ddccb5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-rest/zipball/f46758eefe68611a207475c19ae65e60f3dbd81f",
-                "reference": "f46758eefe68611a207475c19ae65e60f3dbd81f",
+                "url": "https://api.github.com/repos/pagbada/zf-rest/zipball/2d9d1169f666184537f4f8b27e15619d95ddccb5",
+                "reference": "2d9d1169f666184537f4f8b27e15619d95ddccb5",
                 "shasum": ""
             },
             "require": {
@@ -2409,7 +2408,6 @@
                 "zendframework/zend-validator": "^2.8.1",
                 "zendframework/zend-view": "^2.8.1"
             },
-            "default-branch": true,
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -2468,7 +2466,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-18T06:09:23+00:00"
+            "time": "2024-06-17T13:47:16+00:00"
         },
         {
             "name": "zfcampus/zf-rpc",
@@ -4459,10 +4457,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "zfcampus/zf-mvc-auth": 20,
-        "zfcampus/zf-rest": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
