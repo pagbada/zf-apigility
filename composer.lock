@@ -2282,16 +2282,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-oauth2.git",
-                "reference": "cbb1a6154076fca00e892365977bd65f3497a51e"
+                "reference": "bbebdb5e8d275d188d24ffb84f0576959ca8f989"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-oauth2/zipball/cbb1a6154076fca00e892365977bd65f3497a51e",
-                "reference": "cbb1a6154076fca00e892365977bd65f3497a51e",
+                "url": "https://api.github.com/repos/pagbada/zf-oauth2/zipball/bbebdb5e8d275d188d24ffb84f0576959ca8f989",
+                "reference": "bbebdb5e8d275d188d24ffb84f0576959ca8f989",
                 "shasum": ""
             },
             "require": {
-                "bshaffer/oauth2-server-php": "@dev",
+                "bshaffer/oauth2-server-php": "^1.0",
                 "php": "^5.6 || ^7.0",
                 "zendframework/zend-crypt": "^3.3",
                 "zendframework/zend-http": "^2.5.4",
@@ -2372,7 +2372,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-18T06:50:37+00:00"
+            "time": "2024-06-18T07:07:48+00:00"
         },
         {
             "name": "zfcampus/zf-rest",
