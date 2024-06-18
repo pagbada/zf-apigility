@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "472eff0388ac58f61e4aa7beb9fe25e0",
+    "content-hash": "eca0917da8032778e001c61c124e2846",
     "packages": [
         {
             "name": "bshaffer/oauth2-server-php",
@@ -2278,20 +2278,20 @@
         },
         {
             "name": "zfcampus/zf-oauth2",
-            "version": "dev-main",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-oauth2.git",
-                "reference": "bbebdb5e8d275d188d24ffb84f0576959ca8f989"
+                "reference": "6588cdf4d44094038b7f1d2af103bed0b2af612b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-oauth2/zipball/bbebdb5e8d275d188d24ffb84f0576959ca8f989",
-                "reference": "bbebdb5e8d275d188d24ffb84f0576959ca8f989",
+                "url": "https://api.github.com/repos/pagbada/zf-oauth2/zipball/6588cdf4d44094038b7f1d2af103bed0b2af612b",
+                "reference": "6588cdf4d44094038b7f1d2af103bed0b2af612b",
                 "shasum": ""
             },
             "require": {
-                "bshaffer/oauth2-server-php": "^1.0",
+                "bshaffer/oauth2-server-php": "@dev",
                 "php": "^5.6 || ^7.0",
                 "zendframework/zend-crypt": "^3.3",
                 "zendframework/zend-http": "^2.5.4",
@@ -2315,7 +2315,6 @@
             "suggest": {
                 "alcaeus/mongo-php-adapter": "^1.0.5, if you are using ext/mongodb and wish to use the MongoAdapter for OAuth2 credential storage."
             },
-            "default-branch": true,
             "bin": [
                 "bin/bcrypt.php"
             ],
@@ -2372,7 +2371,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-18T07:07:48+00:00"
+            "time": "2024-06-18T05:45:44+00:00"
         },
         {
             "name": "zfcampus/zf-rest",
@@ -4462,7 +4461,6 @@
     "minimum-stability": "stable",
     "stability-flags": {
         "zfcampus/zf-mvc-auth": 20,
-        "zfcampus/zf-oauth2": 20,
         "zfcampus/zf-rest": 20
     },
     "prefer-stable": false,
