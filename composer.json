@@ -90,6 +90,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/pagbada/zf-rest"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/pagbada/oauth2-server-php"
         }
     ]
 }
